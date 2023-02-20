@@ -6,3 +6,4 @@ def problem(a):
         return "Error"
     else:
         return (a * 50) + 6
+
